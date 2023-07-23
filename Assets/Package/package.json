@@ -1,0 +1,31 @@
+{
+  "name": "com.hgs.tone",
+  "version": "1.10.2",
+  "displayName": "HGS Tone",
+  "description": "Simple tool to play musical notes",
+  "unity": "2021.3",
+  "keywords": [
+    "Virtual",
+    "Insturment",
+    "Tone"
+  ],
+  "author": {
+    "name": "Homy Game Studio",
+    "email": "contato@homygamestudio.com"
+  },
+  "samples": [
+    {
+      "displayName": "Keyboard",
+      "path": "Samples~/Keyboard"
+    },
+    {
+      "displayName": "ProceduralMusic",
+      "path": "Samples~/ProceduralMusic"
+    },
+    {
+      "displayName": "MidiCallback",
+      "path": "Samples~/MidiCallback"
+    }
+  ],
+  "dependencies": {}
+}
